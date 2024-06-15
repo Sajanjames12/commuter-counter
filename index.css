@@ -1,17 +1,11 @@
 body {
     background-image: url("balls1.jpg");
     background-size: cover;
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family : system, -apple-system, 'San Fransisco', BlinkMacSystemFont,
+      "Helvetica Neue", "Lucida Grande";
+    font-weight: bold;
     text-align: center;
     height: 100vh;
-}
-
-.container {
-    background: white;
-    max-width: 80%;
-    margin: auto;
-    border: 3px solid black;
-    border-radius: 10px;
 }
 
 h1 {
@@ -37,14 +31,22 @@ button {
 }
 
 #increment-btn {
-    background: #2C2891;
+    background:green;
 }
 
 #save-btn {
-    background: #1C7947;
+    background: orangered;
 }
 
 #save-el {
     font-weight: bold;
+    padding-bottom: 5px ;
 }
 
+.container{
+    max-width:80%;
+    margin: auto;
+    background:white;
+    border: 2px solid black;
+    border-radius: 15px;
+}
