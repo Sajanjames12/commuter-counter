@@ -1,3 +1,10 @@
+I made this web app as part of the Scrimba Frontend Course.
+You can find the app here https://dashing-crepe-6bb86e.netlify.app
+
+
+
+
+
 # Getting Started
 Install the dependencies and run the project
 ```
